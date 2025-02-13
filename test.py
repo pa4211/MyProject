@@ -3,7 +3,7 @@ import requests
 import json
 import os
 from typing import Dict, Any
-
+from pydantic import BaseConfig
 
 class AzureOpenAIChat:
     def __init__(self):
@@ -48,14 +48,33 @@ def main():
             calories: {calories}
             Provide a simple step-by-step Indian only recipe 
             Format strictly in json as a list of dictionaries, with the following keys 
-            :"ingredient",  "fat", "cookingtime", "calories", "instructions"
+            :"name", "ingredient",  "fat", "cookingtime", "calories", "instructions"
             """
             chat_client = AzureOpenAIChat()
             response = chat_client.generate_response(prompt)
             st.subheader("AI-Generated Recipe")
             #recipe_content = response["choices"][0]["message"]["content"]
             recipe_content = response["choices"][0]["message"]["content"]
-            st.write(recipe_content)
+            recipe_content = recipe_content.replace("```json", "").replace("```", "").strip()
+            recipe_json = json.loads(recipe_content)
+            #recipe_json0 = recipe_json[0] 
+            #recipe_json1 = recipe_json[1] #recipe_json = recipe_json[] 
+            #st.write(recipe_json0.get("name", "N/A"))
+            #st.write(recipe_json1.get("name", "N/A"))
+            for recipe in recipe_json:
+                st.write(recipe.get("name", "N/A"))
+                st.write(str(recipe.get("ingredient", "N/A")))
+                st.write(recipe.get("fat", "N/A"))
+                st.write(recipe.get("cookingtime", "N/A"))
+                st.write(recipe.get("calories", "N/A"))
+                st.write(str(recipe.get("instructions", "N/A")))
+                st.write("\n")
+            #st.write(recipe_json) # Use .get() to avoid errors if "fat" is missing
+            st.table(recipe_json)
+            st.write(recipe_json)
+        
+# Display the fat content
+            #st.write(f"Fat Content: {fat_content}")
             #data= json.loads(recipe_content)
             #df = pd.DataFrame(data)
 
