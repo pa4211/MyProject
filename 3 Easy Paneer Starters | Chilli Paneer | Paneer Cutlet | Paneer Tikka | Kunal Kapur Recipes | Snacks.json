@@ -1,0 +1,111 @@
+[
+    {
+        "name": "Chilli Paneer",
+        "ingredients": [
+            "Paneer (cut into cubes)",
+            "Salt",
+            "Chilli Powder",
+            "Cornflour",
+            "Water (optional)",
+            "Oil (for deep frying)",
+            "Ginger (chopped)",
+            "Garlic (chopped)",
+            "Diced Onions",
+            "Diced Green Capsicum",
+            "Diced Red and Yellow Peppers (optional)",
+            "Green Chilli (optional)",
+            "Soya Sauce",
+            "Tomato Ketchup",
+            "Sugar",
+            "Vinegar",
+            "Spring Onions (finely chopped)",
+            "Cornflour (for thickening sauce)"
+        ],
+        "instructions": [
+            "Cut the Paneer into cubes.",
+            "Add a little Salt, a little Chilli Powder, and a lot of Cornflour to the Paneer cubes.",
+            "Mix gently to coat the Paneer, ensuring it doesn\u2019t break. If it feels too dry, sprinkle a little water.",
+            "Deep fry the Paneer in hot oil on medium to high heat. Rotate the oil slightly to prevent the pieces from sticking to each other.",
+            "Once crispy and golden, take out the Paneer and set it aside.",
+            "To prepare the sauce, heat a pan on high heat and add a little oil.",
+            "Dissolve some Red Chilli Powder in water and keep it aside.",
+            "Add chopped Ginger and Garlic to the hot oil. Stir quickly without browning.",
+            "Add Diced Onions, Green Capsicum, and Red and Yellow Peppers. Stir well. Add Green Chilli if desired.",
+            "Pour in the dissolved Red Chilli Powder, Soya Sauce, Tomato Ketchup, and a pinch of Sugar. Give it a quick boil.",
+            "Add a little water depending on whether you want a dry or saucy dish.",
+            "Add the fried Paneer to the sauce and toss gently.",
+            "Add a little Vinegar and finely chopped Spring Onions.",
+            "Dissolve Cornflour in water to make a slurry and add it to the sauce to thicken it and coat the Paneer well.",
+            "Taste and adjust Salt as needed since Soya Sauce already contains Salt.",
+            "Turn off the gas, garnish with Spring Onions, and serve."
+        ]
+    },
+    {
+        "name": "Paneer Cutlet",
+        "ingredients": [
+            "Grated Paneer",
+            "Mashed Potatoes (1/4 of the Paneer quantity)",
+            "Salt",
+            "Chopped Ginger",
+            "Chopped Green Chilli",
+            "Spring Onions (finely chopped)",
+            "Diced Yellow, Green, and Red Capsicum",
+            "Finely chopped Coriander",
+            "Cumin",
+            "Breadcrumbs",
+            "Cornflour (optional)",
+            "Tomato Ketchup",
+            "Cheese Cubes",
+            "Oil (for shallow or deep frying)"
+        ],
+        "instructions": [
+            "Mix Grated Paneer and Mashed Potatoes in a bowl.",
+            "Add Salt, Chopped Ginger, Chopped Green Chilli, Spring Onions, Diced Capsicum, Finely Chopped Coriander, and a little Cumin. Mix well.",
+            "Add Breadcrumbs to counter the moisture. If desired, add Cornflour, but Breadcrumbs are preferred.",
+            "Take a generous portion of the mixture and make a depression in the center using your thumb.",
+            "Fill the depression with a little Tomato Ketchup and a Cheese Cube. Gently fold the mixture to cover the filling.",
+            "Roll and flatten the mixture gently, ensuring the Cheese and Ketchup don\u2019t ooze out. Roll it on a flat surface to form a smooth Cutlet.",
+            "Dip the Cutlet in Breadcrumbs, ensuring it is coated on all sides, then dust off the excess.",
+            "Heat a pan and drizzle Oil. Shallow-fry the Cutlets on low flame for 2-3 minutes on each side until crispy and golden. Alternatively, deep-fry them.",
+            "Once fried, plate the Cutlets with a dollop of Ketchup and garnish with fresh Coriander."
+        ]
+    },
+    {
+        "name": "Paneer Tikka",
+        "ingredients": [
+            "Paneer",
+            "Salt",
+            "Chilli Powder",
+            "Hung Yogurt (curdled Yogurt)",
+            "Ginger and Garlic paste",
+            "Freshly chopped Coriander",
+            "Mustard Oil",
+            "Carom Seeds",
+            "Chopped Green Chillies",
+            "Chopped Ginger",
+            "Gram Flour",
+            "Turmeric",
+            "Red, Green, and Yellow Peppers",
+            "Onions",
+            "Tomatoes",
+            "Oil (for grilling or brushing)",
+            "Ingredients for dip: Fresh Mint, Green Chillies, Lemon, Salt, Mayonnaise"
+        ],
+        "instructions": [
+            "Cut Paneer into smaller pieces.",
+            "Marinate the Paneer with Salt and Chilli Powder. Keep it in a warm place to release water and make it firmer.",
+            "In a bowl, mix Hung Yogurt with Salt, Ginger and Garlic paste, and freshly chopped Coriander.",
+            "Heat a pan and add Mustard Oil. Heat until very hot but not smoking.",
+            "Add Carom Seeds, Chopped Green Chillies, and Chopped Ginger to the hot Oil. Lightly cook.",
+            "Add Gram Flour to the pan and lightly roast it on low flame for 2-3 minutes. Add Turmeric and turn off the heat. Stir well.",
+            "Mix the roasted Gram Flour mixture with the Yogurt mixture to make the marinade.",
+            "Cut Peppers, Onions, and Tomatoes into thick chunks.",
+            "Lightly rub the marinade on the Paneer and Vegetables. Do not add Salt to the Vegetables.",
+            "Skewer the Paneer and Vegetables alternately onto skewers.",
+            "Clean excess marinade off the skewers before grilling to ensure neatness.",
+            "Brush Oil on the skewers and grill on a hot grill until cooked.",
+            "Make the dip by blending Onion, Fresh Mint, Green Chillies, Lemon, Salt, and Mayonnaise to make Mint Mayonnaise.",
+            "Plate the Paneer Tikka skewers with the Mint Mayonnaise dip and serve hot."
+        ]
+    }
+]

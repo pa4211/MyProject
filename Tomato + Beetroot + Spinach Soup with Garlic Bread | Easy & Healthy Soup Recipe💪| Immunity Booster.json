@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Healthy Spinach, Beetroot, and Tomato Soup",
+        "ingredients": [
+            "1 tsp Butter",
+            "1 tsp Ginger-Garlic paste",
+            "500 gm Fresh Green Spinach",
+            "2 Beetroots, peeled and roughly chopped",
+            "\u00bd kg Tomatoes, chopped",
+            "2 tsp Salt",
+            "2 cups Water",
+            "\u00bd tsp Sugar (optional)",
+            "\u00bd tsp Black Pepper Powder",
+            "Roasted pumpkin seeds (for garnishing)",
+            "Roasted sesame seeds (for garnishing)",
+            "Chopped cashews (for garnishing)"
+        ],
+        "instructions": [
+            "In a cooker, take 1 tsp of Butter and 1 tsp of Ginger-Garlic paste.",
+            "Add the veggies: 500 gm of Fresh Green Spinach, 2 Beetroots (peeled and roughly chopped), and \u00bd kg of Tomatoes (chopped).",
+            "Next, add 2 tsp of Salt and 2 cups of Water.",
+            "Put the veggies to boil for 2 whistles.",
+            "Once boiled, separate the veggies and their stock by taking out the veggies in a strainer. Separate the stock at this stage so that the veggies blend easily in the blender without too much liquid. Do not throw away the stock; it will be added back later.",
+            "Let the veggies cool down before putting them into the blender.",
+            "Blend the veggies.",
+            "Run the blended puree through a strainer to get a perfectly smooth textured soup.",
+            "Transfer the soup to a pan.",
+            "Add \u00bd tsp of Sugar (optional) and \u00bd tsp of Black Pepper Powder.",
+            "Let the soup simmer for 2 minutes on low flame.",
+            "Pour the soup into a soup bowl.",
+            "Garnish with roasted pumpkin seeds, roasted sesame seeds, and chopped cashews.",
+            "Serve and enjoy a bowl of pure comfort."
+        ]
+    },
+    {
+        "name": "Garlic Bread",
+        "ingredients": [
+            "1 long thin loaf of bread (e.g., baguette) or any bread variety",
+            "3 tbsp softened salted butter",
+            "1 tbsp chopped green coriander",
+            "1 tbsp minced garlic"
+        ],
+        "instructions": [
+            "Take a long thin loaf of bread called the baguette (or any bread variety) and cut the loaf into 1-inch slices.",
+            "To make the garlic butter, take 3 tbsp of softened salted butter, add 1 tbsp of chopped green coriander, and 1 tbsp of minced garlic.",
+            "Mix the ingredients to make an easy peasy garlic butter.",
+            "Smear the garlic butter on both sides of the bread slices.",
+            "On a hot skillet, toast all the slices until they are crisp and slightly brown.",
+            "Serve the hot and crispy garlic bread alongside the soup for a perfect pairing."
+        ]
+    }
+]

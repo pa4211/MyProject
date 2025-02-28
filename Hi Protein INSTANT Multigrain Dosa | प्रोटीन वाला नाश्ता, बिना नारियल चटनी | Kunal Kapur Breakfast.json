@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Multigrain Dosa",
+        "ingredients": [
+            "Bajra",
+            "Jowar",
+            "Chana Dal",
+            "Urad Dal",
+            "Moong Dal",
+            "Fenugreek Seeds (1 tsp)",
+            "Rice",
+            "Water",
+            "Salt",
+            "Turmeric (optional)",
+            "Powdered Sugar (optional)",
+            "Melted Ghee (or Oil)"
+        ],
+        "instructions": [
+            "Add Bajra, Jowar, Chana Dal, Urad Dal, Moong Dal, Fenugreek Seeds, and Rice into a bowl.",
+            "Add water and scrub the grains well for 1-2 minutes to remove muddy water. Rinse and add fresh water.",
+            "Soak the mixture overnight or for at least 2 hours if in a hurry, to make the grains soft.",
+            "After soaking, check the grains to ensure they are soft.",
+            "Grind the soaked mixture with a little water. Start with less water and add more gradually to make a smooth batter.",
+            "Ensure the batter is thick but has a pouring consistency, meaning it should fall from the ladle but remain thick.",
+            "If time permits, allow the batter to ferment by covering it with a lid and leaving it in the kitchen (not in the fridge) for 12 hours. Fermented batter is healthier.",
+            "If needed instantly, the batter can be used directly without fermentation.",
+            "Before cooking, add Salt, Turmeric (optional), and Powdered Sugar (optional for a nice brown colour). Mix well.",
+            "Heat the Tawa properly. Add water to create steam and clean the Tawa.",
+            "Pour a ladle of batter in the centre of the Tawa and spread it confidently with a light hand.",
+            "Increase the flame and cook the Dosa properly.",
+            "Add Melted Ghee (or Oil) on the Dosa for taste.",
+            "Once cooked, fold the Dosa and serve hot."
+        ]
+    },
+    {
+        "name": "Dal Chutney (South Indian Style)",
+        "ingredients": [
+            "Oil",
+            "Asafoetida",
+            "Raw Toor Dal",
+            "Coriander",
+            "Cumin",
+            "Garlic",
+            "Sambar Onion (or regular Onion)",
+            "Kashmiri Red Chilli",
+            "Curry Leaves",
+            "Tamarind (without seeds)",
+            "Water",
+            "Mustard Seeds",
+            "Urad Dal"
+        ],
+        "instructions": [
+            "Heat a pan and add some Oil.",
+            "Add Asafoetida and Raw Toor Dal (without soaking) to the pan.",
+            "Roast the Toor Dal on medium flame for 3-4 minutes until it becomes crispy.",
+            "Add Coriander, Cumin, Garlic, and Sambar Onion (or regular Onion) to the pan.",
+            "Roast for 3-4 minutes.",
+            "Add Kashmiri Red Chilli and Curry Leaves, and roast for another 3-4 minutes. Turn off the gas.",
+            "Let the mixture cool slightly before grinding.",
+            "While grinding, add Tamarind (without seeds) and a little water as required to make a thick Chutney.",
+            "Once ground, the Chutney is ready. It is a Dal Chutney without Coconut, South Indian Style.",
+            "For extra flavour, prepare a Tadka by heating a little Oil and adding Mustard Seeds.",
+            "When the Mustard Seeds pop, add Urad Dal and Curry Leaves to the Tadka.",
+            "Pour the Tadka directly over the Chutney and mix well.",
+            "Serve the Chutney fresh. It can be stored in the fridge for up to 2 days but not longer because it contains raw water."
+        ]
+    }
+]

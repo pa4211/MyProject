@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Moong Dal Chilas",
+        "ingredients": [
+            "1 cup washed Moong Dal",
+            "1 cup water (for soaking)",
+            "2 green chillies",
+            "1 inch ginger",
+            "1 tsp turmeric powder",
+            "1 tsp salt",
+            "1 tsp red chilli powder",
+            "Oil (for greasing the pan)",
+            "Chaat masala (for sprinkling)",
+            "Chopped coriander leaves (for sprinkling)",
+            "Ghee (for cooking)"
+        ],
+        "instructions": [
+            "Take 1 cup of washed Moong Dal.",
+            "Add 1 cup of water and let it soak for 3 hours.",
+            "Once the dal is soaked, remove the excess water.",
+            "With the soaked dal, add 2 green chillies and 1 inch of ginger.",
+            "Grind it well into a thick paste.",
+            "Take this out in a bowl.",
+            "Add 1 tsp turmeric powder, 1 tsp salt, and 1 tsp red chilli powder.",
+            "Mix this well. The batter for Moong Chila is ready.",
+            "Grease the pan with some oil.",
+            "Pour the Moong Dal batter over it and flatten it like a dosa.",
+            "Sprinkle some chaat masala, chopped coriander leaves, and red chilli powder.",
+            "Add some ghee on top and let it cook from one side.",
+            "Flip it over and cook the other side as well.",
+            "Similarly, make some more chilas.",
+            "The Moong Chilas are ready."
+        ]
+    },
+    {
+        "name": "Green Chutney",
+        "ingredients": [
+            "2 cups coriander leaves",
+            "2 garlic cloves",
+            "2 green chillies",
+            "1 inch ginger (sliced)",
+            "1 tsp chaat masala",
+            "1 tsp salt",
+            "1 tbsp lemon juice",
+            "2 tbsp water"
+        ],
+        "instructions": [
+            "Take 2 cups of coriander leaves.",
+            "Add 2 garlic cloves, 2 green chillies, 1 inch ginger (sliced), 1 tsp chaat masala, 1 tsp salt, 1 tbsp lemon juice, and 2 tbsp water.",
+            "Grind it well.",
+            "The delicious chutney is ready."
+        ]
+    }
+]

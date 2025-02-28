@@ -1,0 +1,58 @@
+[
+    {
+        "name": "High Protein Black Chickpea Dosa",
+        "ingredients": [
+            "Black chickpeas (soaked overnight)",
+            "Ginger",
+            "Green chillies",
+            "Garlic",
+            "Cumin",
+            "Salt",
+            "Coriander",
+            "Semolina",
+            "Curd",
+            "Curry leaves",
+            "Water"
+        ],
+        "instructions": [
+            "Soak black chickpeas overnight. Ensure they are soft and well-puffed.",
+            "Strain the soaked chickpeas and transfer them to a grinder.",
+            "Add ginger, green chillies, garlic, cumin, salt, coriander, semolina, curd, curry leaves, and water to the grinder.",
+            "Grind the mixture into a smooth batter.",
+            "Let the batter rest for at least 20 minutes. For a healthier version, soak the chickpeas until they sprout before following the recipe.",
+            "Heat a pan until it is hot and clean it properly.",
+            "Pour the batter in the center of the pan and spread it in a quick sweeping motion.",
+            "Cook the dosa on the lower side until it gets a nice color.",
+            "Drizzle oil or ghee on the dosa and ensure it cooks well from the bottom.",
+            "Flip the dosa once the edges turn brown.",
+            "Optionally, add stuffing on top of the dosa before folding it.",
+            "Fold the dosa and serve hot."
+        ]
+    },
+    {
+        "name": "Curd Chutney",
+        "ingredients": [
+            "Garlic",
+            "Green chillies",
+            "Salt",
+            "Cumin (optional: roasted)",
+            "Mint",
+            "Coriander",
+            "Turmeric",
+            "Thick curd",
+            "Cucumber (grated and peeled)",
+            "Raw mustard oil (optional)"
+        ],
+        "instructions": [
+            "Take garlic, green chillies, salt, and cumin in a grinding tool. Optionally, roast the cumin for added flavor.",
+            "Grind the mixture well using a silbatta, mixer grinder, or Dori Danda.",
+            "Add chopped mint and coriander to the ground mixture for easier grinding.",
+            "Sprinkle a little more salt and a pinch of turmeric before grinding again.",
+            "Mix the ground chutney into thick curd.",
+            "Grate a peeled cucumber and add it to the curd mixture.",
+            "To enhance the flavor, drizzle a little raw mustard oil (optional).",
+            "Mix everything together thoroughly.",
+            "Serve the chutney with dosa, paratha, or any other dish as it complements them well."
+        ]
+    }
+]

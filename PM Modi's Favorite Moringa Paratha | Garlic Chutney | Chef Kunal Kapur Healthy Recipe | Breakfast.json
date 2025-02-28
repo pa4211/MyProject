@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Moringa Paratha",
+        "ingredients": [
+            "Wheat flour",
+            "Fresh Moringa leaves (washed and roughly chopped)",
+            "Gram flour",
+            "Finely chopped green chilies",
+            "Chopped onions",
+            "Finely chopped ginger",
+            "Crushed coriander",
+            "Cumin",
+            "Salt to taste",
+            "Turmeric",
+            "Water",
+            "Oil",
+            "Ghee (optional, for cooking)"
+        ],
+        "instructions": [
+            "Take wheat flour and add fresh Moringa leaves, roughly chopped, into it.",
+            "Add gram flour, finely chopped green chilies, chopped onions, finely chopped ginger, crushed coriander, cumin, salt to taste, and turmeric.",
+            "Gradually add water and knead the mixture into a stiff dough.",
+            "Add a dash of oil to the dough and knead it well.",
+            "Let the dough rest for 10 minutes.",
+            "After resting, divide the dough into small pedas (balls).",
+            "Take a peda, dust it with dry flour, and roll it out.",
+            "Spread a little ghee on the rolled dough, then fold it into a square shape. Roll it again.",
+            "Heat a griddle and place the rolled paratha on it.",
+            "Apply ghee on both sides as you cook the paratha. Press the sides to ensure it cooks evenly and becomes crispy.",
+            "Cook until the paratha is golden and crispy on all sides.",
+            "Repeat the process with the remaining dough to prepare all the parathas."
+        ]
+    },
+    {
+        "name": "Garlic Chutney",
+        "ingredients": [
+            "Oil",
+            "Garlic",
+            "Asafoetida",
+            "Cumin seeds",
+            "Curry leaves",
+            "Kashmiri red chili (soaked)",
+            "Water",
+            "Jaggery",
+            "Salt",
+            "Optional: Vinegar or Tamarind pulp"
+        ],
+        "instructions": [
+            "Heat some oil in a pan.",
+            "Add garlic and asafoetida for strong flavor.",
+            "Add cumin seeds and curry leaves for tempering.",
+            "Roast the garlic lightly. Use a small amount of garlic to maintain a balanced flavor.",
+            "Add soaked Kashmiri red chili to the pan. This will provide a base and body to the chutney.",
+            "Add a little water to adjust consistency.",
+            "To balance the spice, add jaggery for sweetness.",
+            "For sourness, you can add vinegar or tamarind pulp.",
+            "Add salt to taste and cook until the jaggery melts and the water reduces slightly.",
+            "Turn off the gas and let the mixture cool down.",
+            "Once cooled, grind the mixture to form a smooth chutney.",
+            "If you want to increase its shelf life, roast the chutney again after grinding to dry out the water. This will keep the chutney fresh for 7-10 days. Otherwise, consume it within 2-3 days."
+        ]
+    },
+    {
+        "name": "Tips and Tricks",
+        "ingredients": [],
+        "instructions": [
+            "Whenever making paratha, always knead a stiff dough for better results.",
+            "Let the dough rest for 5-10 minutes after kneading to make it easier to roll.",
+            "After dividing the dough into pedas, allow another 5 minutes of rest before rolling them out.",
+            "You can use fresh Moringa leaves for paratha or dry them for long-term use.",
+            "To dry Moringa leaves, you can use sunlight, shade, or an oven. Store the dried leaves in an airtight container for 4-6 months to retain freshness and nutrients.",
+            "Dried Moringa leaves can also be used to make tea. Add the leaves to boiling water, let it rest for 2 minutes, strain, and serve.",
+            "Moringa leaves can be added to dals, pulaos, and vegetables to boost nutrition without overpowering the dish's flavor.",
+            "Moringa is a superfood rich in nutrients like calcium and Vitamin C. It\u2019s beneficial for immunity, skin, hair, and controlling blood pressure."
+        ]
+    }
+]

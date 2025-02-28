@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Moong Dal Paratha",
+        "ingredients": [
+            "Flour",
+            "Salt (to taste)",
+            "Black Salt (a little)",
+            "Asafoetida (a little)",
+            "Green Chilli (finely chopped)",
+            "Ginger (finely chopped)",
+            "Green Coriander (a lot)",
+            "Coriander Powder",
+            "Red Chilli Powder",
+            "Turmeric Powder (a little)",
+            "Fennel Seeds",
+            "Aamchoor Powder (or Chaat Masala as an alternative)",
+            "Raw Mustard Oil (a little, optional)",
+            "Dry Fenugreek Leaves (whole)",
+            "Moong Dal (washed, soaked for 3-4 hours or overnight)",
+            "Water (as needed)",
+            "Oil or Ghee (for roasting)"
+        ],
+        "instructions": [
+            "To make the dough, take flour in a bowl.",
+            "Add salt according to taste, a little black salt, and a little asafoetida for flavor.",
+            "Add finely chopped green chilli, finely chopped ginger, and a lot of green coriander.",
+            "Mix in coriander powder, red chilli powder, a little turmeric powder, and fennel seeds for flavor.",
+            "Add a little tanginess using aamchoor powder. If aamchoor powder is not available, use chaat masala as an alternative.",
+            "Optionally, add a little raw mustard oil for a sharp kick and nice aroma.",
+            "Add whole dry fenugreek leaves for flavor.",
+            "Soak the washed, skinless moong dal for 3-4 hours or overnight. Remove excess water from the soaked dal.",
+            "Add the soaked moong dal directly into the flour mixture. Do not add water yet.",
+            "Mix the dal with the flour. Add water little by little as needed to form a dough, as the dal already contains some water.",
+            "Knead the dough well. Cover it with a wet cloth and let it rest for 15-20 minutes.",
+            "After resting, divide the dough into small portions (pedas). The dough might be slightly sticky, which is normal.",
+            "While rolling, use a little dry flour to prevent sticking. Roll out the pedas into parathas. If shaping is difficult, use a plate to cut it into a round shape.",
+            "Heat a tawa (griddle) and place the rolled paratha on it. Cook one side lightly, then flip it.",
+            "Cook the other side lightly and flip again. Add a little oil or ghee to the paratha and roast it.",
+            "Flip and cook both sides well, pressing lightly to ensure even cooking. If not using oil or ghee, the paratha can be made dry and served with tea.",
+            "Cook on medium heat until the paratha is golden and crispy. Serve hot with butter, lassi, or the prepared Chilli Garlic Raita."
+        ]
+    },
+    {
+        "name": "Chilli Garlic Raita",
+        "ingredients": [
+            "Curd",
+            "Oil (a little)",
+            "Dry Red Chilli",
+            "Garlic (finely chopped)",
+            "Salt (to taste)",
+            "Black Salt",
+            "Roasted Cumin Powder",
+            "Green Coriander"
+        ],
+        "instructions": [
+            "To prepare the raita, start by heating a little oil in a small pan.",
+            "Add dry red chilli to the hot oil and roast on medium flame until it puffs up, becomes crispy, and its color turns red.",
+            "Remove the roasted red chilli from the pan and set it aside to cool. Do not discard the remaining oil.",
+            "In the same oil, add finely chopped garlic. Keep the flame low and brown the garlic completely to enhance its flavor.",
+            "Once the garlic is browned, pour it directly onto the curd.",
+            "Coarsely crush the roasted red chilli using a mortar and pestle or similar tool.",
+            "Add the crushed red chilli to the curd along with regular raita ingredients: salt, black salt, roasted cumin powder, and finely chopped green coriander.",
+            "Mix everything well. The raita is ready with roasted garlic flavor and smoky chilli."
+        ]
+    }
+]

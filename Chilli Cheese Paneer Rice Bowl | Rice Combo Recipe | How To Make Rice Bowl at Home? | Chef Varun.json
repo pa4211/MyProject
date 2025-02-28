@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Paneer Dumplings",
+        "ingredients": [
+            "Crushed Paneer",
+            "Salt",
+            "Chilli Flakes",
+            "Starch",
+            "Oil (for frying)"
+        ],
+        "instructions": [
+            "Take crushed Paneer in a bowl.",
+            "Add Salt and a touch of Chilli Flakes.",
+            "Add Starch to ensure the mixture binds together beautifully and becomes nice and crisp on the outside.",
+            "Mix all of this together.",
+            "Press the mixture down and pinch marble-sized balls.",
+            "Press, roll, and slowly release the pressure to form a little dumpling which is almost crevice-free.",
+            "Shape the Paneer Dumplings and get them ready.",
+            "Fry the dumplings on high flame to bring in a layer of colour.",
+            "Stir the dumplings frequently to avoid brown spots.",
+            "Once fried, transfer the dumplings to an absorbent tissue paper to drain the excess oil.",
+            "Set aside the fried dumplings."
+        ]
+    },
+    {
+        "name": "Herbed Rice",
+        "ingredients": [
+            "Salted Butter",
+            "Chilli Flakes",
+            "Oregano",
+            "Coriander Leaves (lots)",
+            "Salt",
+            "Parboiled Rice (long grain or short grain, your choice)"
+        ],
+        "instructions": [
+            "Begin with Salted Butter in a pan.",
+            "Before the butter begins to melt, add Chilli Flakes, Oregano, lots of Coriander Leaves, and a touch of Salt.",
+            "Add Parboiled Rice to the mixture (long grain or short grain, as per your choice).",
+            "If you've added Salt while cooking the rice, use additional Salt with caution.",
+            "Move all of this around and quickly flavour the rice with Butter, Herbs, and Spices.",
+            "Once the rice is tossed and reheated, turn off the flame."
+        ]
+    },
+    {
+        "name": "Chilli Gravy",
+        "ingredients": [
+            "Water",
+            "Dark Sauce of your choice (Dark Soya, Light Soya, Hunan, Oyster, etc.)",
+            "Corn Starch",
+            "Tomato Ketchup",
+            "Chilli Flakes",
+            "Sugar",
+            "Salt",
+            "Oil (for cooking)",
+            "Onions (cut into petals)",
+            "Yellow Bell Peppers"
+        ],
+        "instructions": [
+            "Begin by adding Water to a bowl.",
+            "Add a Dark Sauce of your choice (it could be Dark Soya, Light Soya, Hunan, Oyster, etc.).",
+            "Add Corn Starch, Tomato Ketchup, Chilli Flakes (to your preferred level of heat), Sugar (for sweetness), and just a touch of Salt.",
+            "Remember that the sauces used may already contain Salt, so adjust accordingly.",
+            "Quickly whisk all of this together to create a flavoured slurry.",
+            "In a pan, heat Oil and add Petals of Onions.",
+            "Immediately follow with Yellow Peppers.",
+            "Stir-fry the onions and bell peppers on high flame until done.",
+            "Transfer the stir-fried vegetables to a bowl.",
+            "In the same pan, add the flavoured slurry (stirring or whisking once again for at least 30 seconds to ensure the Corn Starch is evenly distributed).",
+            "Cook the slurry, allowing it to thicken and develop shine and gloss.",
+            "Once the gravy is done, set it aside."
+        ]
+    },
+    {
+        "name": "Chilli Paneer Rice Bowl",
+        "ingredients": [
+            "Paneer Dumplings",
+            "Herbed Rice",
+            "Chilli Gravy"
+        ],
+        "instructions": [
+            "Ensure that the Butter Rice or the Herb Rice is steaming hot.",
+            "Make sure the Chilli Gravy or curry is absolutely piping.",
+            "Refresh the Paneer Dumplings by either microwaving, refrying, or using an air fryer (the choice is yours).",
+            "Bring all components together in a platter or a bowl.",
+            "Plate the dish and enjoy as a family."
+        ]
+    }
+]

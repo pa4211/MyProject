@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Oats Chila",
+        "ingredients": [
+            "Rolled Oats",
+            "Gram Flour",
+            "Water",
+            "Salt",
+            "Onions (optional)",
+            "Green Chilli",
+            "Ginger (finely chopped)",
+            "Carom Seeds",
+            "Roasted Cumin",
+            "Black Salt",
+            "Dry Mango Powder (or Lemon Juice, optional)",
+            "Black Pepper",
+            "Dry Fenugreek (Kasuri Methi)",
+            "Turmeric",
+            "Red Chilli Powder",
+            "Freshly chopped Coriander"
+        ],
+        "instructions": [
+            "Take rolled Oats in a bowl and add measured water to make the batter. Refer to the recipe description for exact measurements.",
+            "Add Gram Flour to the mixture for an underlying taste.",
+            "Add Salt and mix well.",
+            "Transfer the mixture to a mixer grinder and grind until smooth. The batter should be thin and runny.",
+            "Add optional ingredients like finely chopped Onions, Green Chilli, Ginger, crushed Carom Seeds, roasted Cumin, Black Salt, Dry Mango Powder (or Lemon Juice for sourness), Black Pepper, Dry Fenugreek, Turmeric, Red Chilli Powder, and freshly chopped Coriander.",
+            "Mix everything well. Adjust the consistency of the batter by adding water for a free-flow yet slightly coarse texture.",
+            "Heat a pan and grease it with a little Oil.",
+            "Pour the batter onto the pan and spread it evenly. Look for steam holes as an indication that the batter and temperature are correct.",
+            "Flip the Chila when it moves easily in the pan and is cooked on one side.",
+            "Cook the other side until golden brown, then flip again for even cooking.",
+            "Add Paneer stuffing on one side, fold the Chila, and serve."
+        ]
+    },
+    {
+        "name": "Paneer Stuffing",
+        "ingredients": [
+            "Paneer (mashed)",
+            "Salt",
+            "Dry Fenugreek (Kasuri Methi)",
+            "Freshly chopped Coriander",
+            "Finely chopped Ginger",
+            "Green Chilli (optional for kids)",
+            "Red Chilli Powder",
+            "Roasted Cumin (coarsely crushed)"
+        ],
+        "instructions": [
+            "Mash the Paneer thoroughly.",
+            "Add Salt, Dry Fenugreek, freshly chopped Coriander, finely chopped Ginger, Green Chilli (optional for kids), Red Chilli Powder, and coarsely crushed roasted Cumin.",
+            "Mix everything well and keep the stuffing raw. There is no need to cook it.",
+            "Keep the stuffing ready for filling the Chila."
+        ]
+    },
+    {
+        "name": "Jhakaas Chutney (Tamarind and Onion Chutney)",
+        "ingredients": [
+            "Tamarind pulp (prepared by soaking Tamarind in water, mashing it, straining, and separating seeds)",
+            "Green Onion (chopped)",
+            "Regular Onion (chopped)",
+            "Salt",
+            "Black Salt",
+            "Roasted Cumin (coarsely crushed)",
+            "Red Chilli Powder",
+            "Finely chopped Ginger",
+            "Green Chilli",
+            "Boiled and mashed Potato",
+            "Freshly chopped Coriander",
+            "Powdered Sugar",
+            "Chilled water"
+        ],
+        "instructions": [
+            "Take Tamarind pulp and transfer it to a bowl.",
+            "Add chopped Green Onion and regular chopped Onion to the pulp.",
+            "Season with Salt and Black Salt as per taste.",
+            "Add coarsely crushed roasted Cumin and Red Chilli Powder for spice.",
+            "Add finely chopped Ginger and Green Chilli for extra heat.",
+            "Add boiled and mashed Potato to give the Chutney body and thickness.",
+            "Add freshly chopped Coriander and mix thoroughly.",
+            "Mash the mixture with your hands to release the flavors of the Onion and blend everything well.",
+            "Add Powdered Sugar for a sweet element and adjust the balance of sour, sweet, and spicy flavors.",
+            "If the Chutney is too thick, add chilled water to adjust the consistency.",
+            "Mix well and serve with the Oats Chila. This Chutney can also be paired with Amritsari Kulcha."
+        ]
+    }
+]

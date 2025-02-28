@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Bun Dosa",
+        "ingredients": [
+            "Semolina (thick or thin)",
+            "Curd",
+            "Salt (as per taste)",
+            "Water",
+            "Oil (for tempering and cooking)",
+            "Asafoetida",
+            "Mustard Seeds",
+            "Green Chillies",
+            "Split Chickpeas",
+            "Ginger",
+            "Onions",
+            "Curry Leaves",
+            "Coriander Leaves",
+            "Baking Soda (or Baking Powder/Eno as alternative)"
+        ],
+        "instructions": [
+            "Put the Semolina in a mixer grinder.",
+            "Add Curd, Salt (as per taste), and Water to the grinder. Grind until a smooth, thick, but pouring consistency batter is formed.",
+            "If the batter appears runny, let it rest for 5-10 minutes to allow the Semolina to absorb water and thicken.",
+            "For the tempering, heat Oil in a pan. Add Asafoetida and Mustard Seeds.",
+            "Once the Mustard Seeds crackle, add Green Chillies, Split Chickpeas, and lightly roast the Chickpeas.",
+            "Add Ginger, Onions, and Curry Leaves to the pan. Cook the Onions lightly for a minute on high heat (do not brown them).",
+            "Add the tempering to the batter and mix it in.",
+            "Add a generous amount of Coriander Leaves to the batter for freshness and color. Mix well.",
+            "Before cooking, add Baking Soda to the batter and mix lightly. If you don't have Baking Soda, use Baking Powder or Eno as an alternative.",
+            "Heat a Tadka Pan, small Omelette Pan, Appam Kadhai, or Tawa as per availability.",
+            "Add Oil to the pan and pour the batter into the center using a ladle. Let it cook patiently on medium heat.",
+            "Once the sides are cooked and the center is still runny, carefully flip the Dosa using a spoon or thin knife.",
+            "Add a little Oil to the sides and let it cook on low heat until fully cooked and golden.",
+            "Flip again if necessary and ensure it's cooked thoroughly. The Bun Dosa should be thick, soft, and cushiony with a crown on top.",
+            "Serve hot with Onion Tomato Chutney."
+        ]
+    },
+    {
+        "name": "Onion Tomato Chutney",
+        "ingredients": [
+            "Oil",
+            "Ginger (roughly chopped)",
+            "Green Chillies (roughly chopped)",
+            "Asafoetida",
+            "Lentils",
+            "Dry Red Chillies",
+            "Mustard Seeds",
+            "Cumin Seeds",
+            "Curry Leaves",
+            "Whole Garlic Cloves",
+            "Onions (roughly chopped)",
+            "Kashmiri Red Chilli",
+            "Tomatoes (roughly chopped)",
+            "Salt",
+            "Tamarind (small ball of pulp, without seeds)"
+        ],
+        "instructions": [
+            "Heat Oil in a pan.",
+            "Roughly chop Ginger and Green Chillies while the Oil heats.",
+            "Add Asafoetida to the hot Oil, followed by Lentils, Dry Red Chillies, Mustard Seeds, and Cumin Seeds. Cook until the Mustard Seeds crackle.",
+            "Add Curry Leaves, Ginger, Green Chillies, and Whole Garlic Cloves to the pan. Cook on high heat.",
+            "Add roughly chopped Onions and cook for 2 minutes while stirring to ensure even cooking.",
+            "Add Kashmiri Red Chilli for fragrance, spiciness, and color. Mix well.",
+            "Add roughly chopped Tomatoes and Salt to the pan. Roast on high heat for 3 minutes until the Tomatoes become slightly soft.",
+            "Turn off the heat and cool the mixture completely.",
+            "Once cooled, transfer the mixture to a grinder. Add a small ball of Tamarind pulp (without seeds).",
+            "Grind the mixture without adding water until it forms a smooth Chutney.",
+            "Serve the Chutney fresh with Bun Dosa."
+        ]
+    }
+]
